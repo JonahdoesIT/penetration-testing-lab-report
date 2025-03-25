@@ -29,4 +29,4 @@ This project documents a hands-on penetration test against a simulated internal 
 
 ## 📂 Report
 Read the full walkthrough here:
-➡️ [View Report](report.md) *(or link to a PDF if preferred)*
+➡️ [View Report](report.md)
